@@ -1,0 +1,39 @@
+body{
+    background: midnightblue;
+    color: mintcream;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px ;
+}
+
+.listoffaces{
+    font-size: 20px;
+}
+
+#camera{
+    width: 360px;
+    height: 300px;
+    border: 2px dashed powderblue;
+}
+
+#Button{
+    background-color:turquoise;
+    color:blue;
+}
+
+#Button1{
+    color: yellow;
+}
+
+#Result{
+    border:2px solid tomato;
+    height: 300px;
+    width: 360px;
+}
+
+#Face_Name,#Face_Accuracy{
+    font-size: 25px;
+    color: orchid;
+}
